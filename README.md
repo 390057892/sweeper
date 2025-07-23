@@ -4,5 +4,6 @@
 
 ## 📱 演示视频
 
-https://github.com/390057892/sweeper/assets/Screen_recording_20250723_175229.mp4
+https://github.com/390057892/sweeper/raw/main/Screen_recording_20250723_175229.mp4
+
 
